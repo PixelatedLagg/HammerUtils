@@ -1,0 +1,15 @@
+C:\Users\pixil\Desktop\HammerUtils\bin\Debug\net6.0\HammerUtils.exe
+C:\Users\pixil\Desktop\HammerUtils\bin\Debug\net6.0\HammerUtils.deps.json
+C:\Users\pixil\Desktop\HammerUtils\bin\Debug\net6.0\HammerUtils.runtimeconfig.json
+C:\Users\pixil\Desktop\HammerUtils\bin\Debug\net6.0\HammerUtils.dll
+C:\Users\pixil\Desktop\HammerUtils\bin\Debug\net6.0\HammerUtils.pdb
+C:\Users\pixil\Desktop\HammerUtils\obj\Debug\net6.0\HammerUtils.csproj.AssemblyReference.cache
+C:\Users\pixil\Desktop\HammerUtils\obj\Debug\net6.0\HammerUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pixil\Desktop\HammerUtils\obj\Debug\net6.0\HammerUtils.AssemblyInfoInputs.cache
+C:\Users\pixil\Desktop\HammerUtils\obj\Debug\net6.0\HammerUtils.AssemblyInfo.cs
+C:\Users\pixil\Desktop\HammerUtils\obj\Debug\net6.0\HammerUtils.csproj.CoreCompileInputs.cache
+C:\Users\pixil\Desktop\HammerUtils\obj\Debug\net6.0\HammerUtils.dll
+C:\Users\pixil\Desktop\HammerUtils\obj\Debug\net6.0\refint\HammerUtils.dll
+C:\Users\pixil\Desktop\HammerUtils\obj\Debug\net6.0\HammerUtils.pdb
+C:\Users\pixil\Desktop\HammerUtils\obj\Debug\net6.0\HammerUtils.genruntimeconfig.cache
+C:\Users\pixil\Desktop\HammerUtils\obj\Debug\net6.0\ref\HammerUtils.dll
